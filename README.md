@@ -1,4 +1,4 @@
-![CorrelAid X Konstanz Header](https://github.com/ZoeWolter/CorrelAidXKonstanz-DataManipulation/blob/main/header.png?raw=true)
+![CorrelAid X Konstanz Header](https://github.com/ZoeWolter/CorrelAidXKonstanz-DataVisualization/blob/main/header.png?raw=true)
 
 # CorrelAidXKonstanz-DataVisualization
 
