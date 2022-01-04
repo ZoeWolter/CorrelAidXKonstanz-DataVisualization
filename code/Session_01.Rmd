@@ -5,7 +5,7 @@ date: "11.01.2022"
 date:
 ---
 
-In the following, we will explore how to visualize data in R using the ggplot2-package.
+In the following, we will explore how to visualize data in R using the `ggplot2`-package.
 
 # 1. Getting started
 
